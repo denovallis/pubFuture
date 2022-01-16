@@ -1,4 +1,4 @@
-# pubFuture
+# <>pubFuture
 Java/Hibernate CRUD
 
 ddd
