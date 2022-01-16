@@ -13,7 +13,7 @@ MySQL-Connect 8.0.16v
 Eclipse 2019-12
 
 # Import Files
-Click on File > Import > Maven > Existing Maven Project and select the archive downloaded to import correctly.
+After opening the Eclipse IDE, click on File > Import > Maven > Existing Maven Project and select the archive downloaded to import correctly.
 
 # Import .SQL
 Run mysql -u root -p <pubFuture.sql in terminal with MySQL already installed. 
