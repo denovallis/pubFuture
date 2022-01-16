@@ -1,0 +1,19 @@
+package tst.pubfuture.java.model;
+
+public enum EFinInstitution {
+	
+	BRADESCO,
+	ITAU_UNIBANCO,
+	SANTANDER,
+	BANCO_DO_BRASIL,
+	CAIXA_ECONOMICA,
+	NU_PAGAMENTOS,
+	C6_BANK,
+	BANCO_INTER,
+	VIACREDI,
+	SICOOB,
+	SICRED,
+	OUTROS;
+	
+
+}
