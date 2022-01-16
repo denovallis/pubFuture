@@ -1,6 +1,7 @@
 # JPA/Hibernate CRUD
 A JPA/Hibernate CRUD based in a Bank System for a selector project managed by ProwayIT Training in Blumenau/SC, Brazil.
 
+# Plugins used from Maven Repository
 #Hibernate 5.5.7v
 (https://mvnrepository.com/artifact/org.hibernate/hibernate-core)
 
