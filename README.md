@@ -1,7 +1,7 @@
 # JPA/Hibernate CRUD
 A JPA/Hibernate CRUD based in a Bank System for a selector project managed by ProwayIT Training in Blumenau/SC, Brazil.
 
-This directory have the back-end part of an entire resumed Bank System, with operations and relations of Accounts, Incomes and Expenses with a SQL Based DB.
+This directory have the back-end part of an entire resumed Bank System, with relations of Accounts, Incomes and Expenses by JPA/ORM relationship with a SQL Based Database.
 
 Based in REST Architecture for free choice of front-end components.
 
